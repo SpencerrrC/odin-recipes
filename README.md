@@ -1,0 +1,2 @@
+# The Beginning
+Hello everyone, if you're here then wow, you are probably looking at some history! This is my first "website", the first milestone on my journey to become a self taught developer with enough knowledge to change the world through entrepreneurship. I have strayed away from techincality for too long, and this is my attempt at it. So while there isn't going to be much to see here, I hope this can serve as a reminder that everything and everyone has its beginnings somewhere. Keep on rockin'
